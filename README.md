@@ -14,6 +14,8 @@ family households, supporting improved resource planning. By integrating real-ti
 secure data storage, predictive analytics, user classification, and an efficient booking mechanism,
 G-Track enhances user convenience and ensures reliable and intelligent gas management.
 
+Working Link:https://g-track-frontend-xmfo.vercel.app/
+
 Frontend Technologies Used
 
 The frontend of the G-Track Gas Monitoring System was developed using HTML5, CSS, and JavaScript to create an interactive, responsive, and user-friendly web application for real-time gas monitoring and management.
